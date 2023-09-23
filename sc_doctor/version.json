@@ -3,6 +3,6 @@
     "lastVersionCode": 8,
     "lastBetaVersion": "V2.5",
     "lastBetaVersionCode": 8,
-    "force": false,
-    "betaForce": true
+    "minVersionCode": 7,
+    "minBetaVersionCode": 7
 }
