@@ -1,6 +1,8 @@
 {
-    "lastVersion":"V2.5",
-    "lastVersionCode":8,
-    "lastBetaVersion":"V2.5",
-    "lastBetaVersionCode":8
+    "lastVersion": "V2.5",
+    "lastVersionCode": 8,
+    "lastBetaVersion": "V2.5",
+    "lastBetaVersionCode": 8,
+    "force": false,
+    "betaForce": true
 }
