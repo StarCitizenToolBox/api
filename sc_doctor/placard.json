@@ -2,8 +2,8 @@
     "version": "255c1fd9-c49c-4031-8733-b38e5363d666",
     "title": "测试公告",
     "content": "星际公民诊断工具 V3 正在开发中...",
-    "link": null,
-    "link_type":"external",
+    "link": "https://jihulab.com/StarCitizenCN_Community/StarCitizenDoctor",
+    "link_type": "external",
     "always_show": false,
     "enable": true
 }
