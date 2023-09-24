@@ -4,6 +4,6 @@
     "content": "星际公民诊断工具 V3 正在开发中...",
     "link": "https://jihulab.com/StarCitizenCN_Community/StarCitizenDoctor/-/raw/main/README.md",
     "link_type": "doc",
-    "always_show": false,
+    "always_show": true,
     "enable": true
 }
