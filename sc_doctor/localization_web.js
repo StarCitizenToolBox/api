@@ -21,12 +21,11 @@
 // @require             https://cdn.bootcdn.net/ajax/libs/timeago.js/4.0.2/timeago.full.min.js
 // @require             https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js
 // ==/UserScript==
-window.addEventListener('load', function(event) {
-  // 当页面加载完成时，执行我们的脚本
-  myScript();
-   alltranslate();
-});
+
 var currentUrl = window.location.href;
+
+myScript();
+alltranslate();
 
 // 监听页面中的鼠标点击事件
 
