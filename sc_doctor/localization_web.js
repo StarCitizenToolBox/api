@@ -24,9 +24,6 @@
 
 var currentUrl = window.location.href;
 
-myScript();
-alltranslate();
-
 // 监听页面中的鼠标点击事件
 
 function myScript() {
@@ -718,3 +715,6 @@ function replaceTextNode(node1)
 
 }
 
+
+myScript();
+alltranslate();
