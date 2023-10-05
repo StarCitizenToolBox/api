@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "enable": true,
+        "versionName": "3.20.0(PU)_HK_V0",
+        "updateAt": "2023-10-5: 18:10:00",
+        "info": "繁体中文精简汉化",
+        "channel": "PU"
+    }
+]
