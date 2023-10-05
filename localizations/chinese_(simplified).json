@@ -3,14 +3,14 @@
         "enable": true,
         "versionName": "3.20.0(PU)_CN_V0",
         "updateAt": "2023-10-5: 18:21:00",
-        "info": "简体中文精简汉化",
+        "info": "简体中文精简汉化（仅用于测试）",
         "channel": "PU"
     },
     {
         "enable": false,
         "versionName": "3.21.0(PTU)_CN_V0",
         "updateAt": "2023-10-5: 10:15:00",
-        "info": "测试服简体中文汉化",
+        "info": "测试服简体中文汉化（启用）",
         "channel": "PTU"
     }
 ]
