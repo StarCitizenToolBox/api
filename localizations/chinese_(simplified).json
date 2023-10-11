@@ -1,6 +1,6 @@
 [
     {
-        "enable": false,
+        "enable": true,
         "versionName": "3.20.0(PU)_CN_V1",
         "updateAt": "2023-10-5: 18:21:00",
         "info": "简体中文汉化",
