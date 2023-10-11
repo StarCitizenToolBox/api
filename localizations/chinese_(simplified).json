@@ -1,9 +1,9 @@
 [
     {
         "enable": false,
-        "versionName": "3.20.0(PU)_CN_V0",
+        "versionName": "3.20.0(PU)_CN_V1",
         "updateAt": "2023-10-5: 18:21:00",
-        "info": "简体中文精简汉化（请等待正式版汉化）",
+        "info": "简体中文汉化",
         "channel": "PU"
     },
     {
