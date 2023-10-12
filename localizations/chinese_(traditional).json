@@ -4,13 +4,15 @@
         "versionName": "3.20.0(PU)_HK_V1",
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（HK）",
-        "channel": "PU"
+        "channel": "PU",
+        "node": "僅供測試"
     },
     {
         "enable": true,
         "versionName": "3.20.0(PU)_TW_V1",
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（TW）",
-        "channel": "PU"
+        "channel": "PU",
+        "node": "僅供測試"
     }
 ]
