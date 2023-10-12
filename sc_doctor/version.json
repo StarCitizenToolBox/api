@@ -1,9 +1,9 @@
 {
-    "lastVersion": "V2.9",
-    "lastVersionCode": 13,
-    "lastBetaVersion": "V2.9",
-    "lastBetaVersionCode": 13,
-    "minVersionCode": 13,
-    "minBetaVersionCode": 13,
+    "lastVersion": "V2.9.1",
+    "lastVersionCode": 14,
+    "lastBetaVersion": "V2.9.1",
+    "lastBetaVersionCode": 14,
+    "minVersionCode": 14,
+    "minBetaVersionCode": 14,
     "p4kDownloadUrl": "https://p4k.42kit.com/Data.p4k"
 }
