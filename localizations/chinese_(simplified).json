@@ -9,6 +9,14 @@
     },
     {
         "enable": true,
+        "versionName": "3.20.0(PU)_CNE_V2",
+        "updateAt": "2023-10-12: 20:00:00",
+        "info": "简体中文汉化（载具名称英文版）",
+        "channel": "PU",
+        "node": "部分人出现了使用汉化后叫船终端部分船消失的情况，请尝试使用该版本！"
+    },
+    {
+        "enable": true,
         "versionName": "3.20.0(PU)_CN_V2",
         "updateAt": "2023-10-12: 20:00:00",
         "info": "简体中文汉化",
