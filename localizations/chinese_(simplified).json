@@ -17,6 +17,14 @@
     },
     {
         "enable": true,
+        "versionName": "3.21.0(PU)_CNEV_V1",
+        "updateAt": "2023-11-01: 20:30:00",
+        "info": "简体中文汉化（载具名称英文版）",
+        "channel": "PU",
+        "node": "该版本用于解决 AOSP载具终端 显示不出一些船的问题。"
+    },
+    {
+        "enable": true,
         "versionName": "3.20.0(PU)_CN_V2",
         "updateAt": "2023-10-12: 20:00:00",
         "info": "简体中文汉化",
