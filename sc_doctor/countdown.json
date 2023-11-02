@@ -1,0 +1,42 @@
+[
+    {
+        "name": "IAE 星际航空航天博览会",
+        "time": 1700323200000,
+        "icon": "iae.png"
+    },
+    {
+        "name": "光灯节 Luminalia",
+        "time": 1702137600000
+    },
+    {
+        "name": "火红节 Red Festival",
+        "time": 1705852800000
+    },
+    {
+        "name": "科拉爱人节 Coramor",
+        "time": 1707580800000
+    },
+    {
+        "name": "舰队周 ILW",
+        "time": 1716134400000,
+        "icon": "ilw.png"
+    },
+    {
+        "name": "外星周 Alien Week",
+        "time": 1718467200000
+    },
+    {
+        "name": "奠基节 Foundation",
+        "time": 1720281600000,
+        "icon": "ff.png"
+    },
+    {
+        "name": "Best in Show 投票",
+        "time": 1723046400000,
+        "icon": "bis.png"
+    },
+    {
+        "name": "海盗节",
+        "time": 1726329600000
+    }
+]
