@@ -6,15 +6,23 @@
     },
     {
         "name": "光灯节 Luminalia",
-        "time": 1702137600000
+        "time": 1702137600000,
+        "icon": "luminalia.png"
     },
     {
         "name": "火红节 Red Festival",
-        "time": 1705852800000
+        "time": 1705852800000,
+        "icon": "red.png"
     },
     {
         "name": "科拉爱人节 Coramor",
-        "time": 1707580800000
+        "time": 1707580800000,
+        "icon": "coramor.png"
+    },
+    {
+        "name": "幸运星节 Fortuna",
+        "time": 1710691200000,
+        "icon": "fortuna.png"
     },
     {
         "name": "舰队周 ILW",
@@ -23,7 +31,8 @@
     },
     {
         "name": "外星周 Alien Week",
-        "time": 1718467200000
+        "time": 1718467200000,
+        "icon": "alen.png"
     },
     {
         "name": "奠基节 Foundation",
@@ -36,7 +45,8 @@
         "icon": "bis.png"
     },
     {
-        "name": "海盗节",
-        "time": 1726329600000
+        "name": "海盗节 Pirate",
+        "time": 1726329600000,
+        "icon": "pirate.png"
     }
 ]
