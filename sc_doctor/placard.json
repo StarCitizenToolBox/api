@@ -1,8 +1,8 @@
 {
-    "version": "255c1fd9-c49c-4031-8733-b38e5363d678",
-    "title": "测试公告",
-    "content": "盒子 V3 正式版 敬请期待！ （感谢您参与 Beta 测试）",
-    "link": "https://jihulab.com/StarCitizenCN_Community/StarCitizenDoctor/-/raw/main/README.md",
+    "version": "3f6c5d3a-7ef3-11ee-b962-0242ac120002",
+    "title": "活动提醒",
+    "content": "IAE2953 2953即将到来",
+    "link": "https://jihulab.com/StarCitizenCN_Community/docs/-/raw/main/IAE2953.md",
     "link_type": "doc",
     "always_show": false,
     "enable": true
