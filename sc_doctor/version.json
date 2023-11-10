@@ -2,5 +2,16 @@
     "lastVersion": "V2.9.9",
     "lastVersionCode": 25,
     "minVersionCode": 15,
-    "p4kDownloadUrl": "https://p4k.42kit.com/Data.p4k"
+    "MSE_lastVersion": "V2.9.13",
+    "MSE_lastVersionCode": 27,
+    "MSE_minVersionCode": 27,
+    "p4kDownloadUrl": "https://p4k.42kit.com/Data.p4k",
+    "activityColors": {
+        "enable": true,
+        "startTime": 1700236800000,
+        "endTime": 1701360000000,
+        "background": "#290859",
+        "menu": "#310666",
+        "mica": "#270452"
+    }
 }
