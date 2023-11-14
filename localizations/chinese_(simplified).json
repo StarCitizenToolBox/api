@@ -25,10 +25,10 @@
     },
     {
         "enable": true,
-        "versionName": "3.20.0(PU)_CN_V2",
-        "updateAt": "2023-10-12: 20:00:00",
+        "versionName": "3.21.0(PU)_CN_V1",
+        "updateAt": "2023-10-26: 00:50:00",
         "info": "简体中文汉化",
         "channel": "PTU",
-        "node": "暂时使用和PU一致的文本配置"
+        "node": "该版本 与 LIVE 2.21 文本一致"
     }
 ]
