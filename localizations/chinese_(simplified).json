@@ -11,15 +11,15 @@
         "enable": true,
         "versionName": "3.21.1(PU)_CNE_V1",
         "updateAt": "2023-11-17: 14:00:00",
-        "info": "简体中半文汉化（物品名称英文版）",
+        "info": "简体中文半汉化（物品名称英文版）",
         "channel": "PU",
         "node": ""
     },
     {
         "enable": true,
-        "versionName": "3.21.0(PU)_CNEV_V1",
-        "updateAt": "2023-11-01: 20:30:00",
-        "info": "简体中文汉化（载具名称英文版）",
+        "versionName": "3.21.1(PU)_CNEV_V1",
+        "updateAt": "2023-11-17: 14:30:00",
+        "info": "简体中文汉化（仅载具名称英文版）",
         "channel": "PU",
         "node": "该版本用于解决 AOSP载具终端 显示不出一些船的问题。"
     }
