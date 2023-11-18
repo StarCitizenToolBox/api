@@ -26,8 +26,8 @@
     ,
     {
         "enable": true,
-        "versionName": "3.21.0(PU)_CNRSUI_V1",
-        "updateAt": "2023-11-16: 16:30:00",
+        "versionName": "3.21.1(PU)_CNRSUI_V1.2",
+        "updateAt": "2023-11-18: 17:45:00",
         "info": "简体中文汉化（货物双语价格版）",
         "channel": "PU",
         "node": "RSUI红星联合工业舰队定制版本，提供载具英文，物品货物双语+标准货价显示，适合打捞跑商使用。"
