@@ -1,10 +1,5 @@
 [
     {
-        "name": "星际航空航天博览会 IAE",
-        "time": 1700236800000,
-        "icon": "iae.png"
-    },
-    {
         "name": "光灯节 Luminalia",
         "time": 1702137600000,
         "icon": "luminalia.png"
