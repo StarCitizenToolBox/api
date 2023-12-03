@@ -1,7 +1,7 @@
 [
     {
         "enable": true,
-        "versionName": "3.21.1(PU)_CN_V1",
+        "versionName": "3.21.1(PU)_CN_V2",
         "updateAt": "2023-11-17: 14:00:00",
         "info": "简体中文汉化",
         "channel": "PU",
@@ -9,7 +9,7 @@
     },
     {
         "enable": true,
-        "versionName": "3.21.1(PU)_CNE_V1",
+        "versionName": "3.21.1(PU)_CNE_V2",
         "updateAt": "2023-11-17: 14:00:00",
         "info": "简体中文半汉化（物品名称英文版）",
         "channel": "PU",
