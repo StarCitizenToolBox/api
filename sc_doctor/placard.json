@@ -1,9 +1,9 @@
 {
-    "version": "3f6c5d3a-7ef3-11ee-b962-0242ac120002",
-    "title": "活动提醒",
-    "content": "IAE2953 即将到来",
-    "link": "https://jihulab.com/StarCitizenCN_Community/docs/-/raw/main/IAE2953.md",
+    "version": "3f6c5d3a-7ef3-11ee-b962-0242ac123332",
+    "title": "公告",
+    "content": "这是一个来自自建服务器的公告",
+    "link": "",
     "link_type": "doc",
     "always_show": false,
-    "enable": false
+    "enable": true
 }
