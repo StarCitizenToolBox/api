@@ -3,7 +3,7 @@
     "title": "公告",
     "content": "这是一个来自自建服务器的公告",
     "link": "https://git.sctoolbox.sccsgo.com/SCToolBox/app",
-    "link_type": "link",
+    "link_type": "external",
     "always_show": false,
     "enable": true
 }
