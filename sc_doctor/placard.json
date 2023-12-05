@@ -3,7 +3,7 @@
     "title": "公告",
     "content": "这是一个来自自建服务器的公告",
     "link": "",
-    "link_type": "doc",
+    "link_type": "link",
     "always_show": false,
     "enable": true
 }
