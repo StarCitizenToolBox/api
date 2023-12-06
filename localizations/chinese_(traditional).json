@@ -4,15 +4,18 @@
         "versionName": "3.20.0(PU)_HK_V1",
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（HK）",
-        "channel": "PU",
-        "node": "僅供測試"
+        "game_channel": "PU",
+        "note": "僅供測試",
+        "upgrade_channel":"HK"
+
     },
     {
         "enable": true,
         "versionName": "3.20.0(PU)_TW_V1",
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（TW）",
-        "channel": "PU",
-        "node": "僅供測試"
+        "note": "僅供測試",
+        "game_channel": "PU",
+        "upgrade_channel":"TW"
     }
 ]
