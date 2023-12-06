@@ -5,8 +5,7 @@
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（HK）",
         "game_channel": "PU",
-        "note": "僅供測試",
-        "upgrade_channel":"HK"
+        "note": "僅供測試"
 
     },
     {
@@ -15,7 +14,6 @@
         "updateAt": "2023-10-11: 16:10:00",
         "info": "繁體中文漢化（TW）",
         "note": "僅供測試",
-        "game_channel": "PU",
-        "upgrade_channel":"TW"
+        "game_channel": "PU"
     }
 ]
