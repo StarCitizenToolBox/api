@@ -1,9 +1,9 @@
 {
-    "version": "3f6c5d3a-7ef3-11ee-b962-0242ac123332",
+    "version": "3fdsc522a-7ef3-11ee-b962-0242ac120982",
     "title": "公告",
-    "content": "这是一个来自自建服务器的公告",
-    "link": "https://git.sctoolbox.sccsgo.com/SCToolBox/app",
-    "link_type": "external",
+    "content": "关于盒子服务器迁移的相关公告",
+    "link": "https://git.sctoolbox.sccsgo.com/SCToolBox/Doc/raw/branch/main/Announcement/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB.md",
+    "link_type": "doc",
     "always_show": false,
     "enable": true
 }
