@@ -3,40 +3,45 @@
         "enable": true,
         "versionName": "3.21.1(PU)_CN_V2",
         "updateAt": "2023-12-03: 14:50:00",
-        "info": "简体中文汉化",
-        "channel": "PU",
-        "node": "·因游戏暂不支持3D字体汉化，F键交互将依旧为英文。\n·角色抬头显示器(HUD)的中文字体不显示。\n·某些元素字体过小。\n·搜索栏无法输入中文。\n·部位文本未翻译（在翻了，在翻了！）"
+        "info": "简体中文汉化（首选）",
+        "game_channel": "PU",
+        "note": "·因游戏暂不支持3D字体汉化，F键交互将依旧为英文。\n·角色抬头显示器(HUD)的中文字体不显示。\n·某些元素字体过小。\n·搜索栏无法输入中文。\n·部位文本未翻译（在翻了，在翻了！）",
+        "upgrade_channel":"CN"
     },
     {
         "enable": true,
         "versionName": "3.21.1(PU)_CNE_V2",
         "updateAt": "2023-12-03: 14:50:00",
         "info": "简体中文半汉化（物品名称英文版）",
-        "channel": "PU",
-        "node": ""
+        "game_channel": "PU",
+        "note": "",
+        "upgrade_channel":"CNE"
     },
     {
         "enable": true,
         "versionName": "3.21.1(PU)_CNEV_V1",
         "updateAt": "2023-11-17: 14:30:00",
         "info": "简体中文汉化（仅载具名称英文版）",
-        "channel": "PU",
-        "node": "该版本用于解决 AOSP载具终端 显示不出一些船的问题。"
+        "game_channel": "PU",
+        "note": "该版本用于解决 AOSP载具终端 显示不出一些船的问题。",
+        "upgrade_channel": "CNEV"
     },
     {
         "enable": true,
         "versionName": "3.21.1(PU)_CNRSUI_V1.3",
         "updateAt": "2023-11-27: 23:32:00",
         "info": "简体中文汉化（物品/组件信息增强版）",
-        "channel": "PU",
-        "node": "RSUI红星联合工业舰队提供的定制版本，基于《载具名称英文版》定制\n常用货物双语+参考售价显示、采矿激光头和模组信息显示，以及其他常用物品双语和提示方便搜索\n适合打捞跑商采矿使用\n若有文本太长导致的显示问题请尝试更换其他版本的汉化。"
+        "game_channel": "PU",
+        "note": "RSUI红星联合工业舰队提供的定制版本，基于《载具名称英文版》定制\n常用货物双语+参考售价显示、采矿激光头和模组信息显示，以及其他常用物品双语和提示方便搜索\n适合打捞跑商采矿使用\n若有文本太长导致的显示问题请尝试更换其他版本的汉化。",
+        "upgrade_channel":"CNRSUI"
     },
     {
         "enable": true,
         "versionName": "3.21.0(PU)_CN_V2",
         "updateAt": "2023-10-26: 00:50:00",
         "info": "简体中文汉化",
-        "channel": "PTU",
-        "node": "该版本 与 LIVE 2.21 文本一致"
+        "game_channel": "PTU",
+        "note": "该版本 与 LIVE 2.21 文本一致",
+        "upgrade_channel": "CN"
     }
 ]
