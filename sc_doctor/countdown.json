@@ -38,5 +38,10 @@
         "name": "海盗节 Pirate Week",
         "time": 1726329600000,
         "icon": "pirate.png"
+    },
+    {
+        "name": "星际航空航天博览会 IAE",
+        "time": 1731859200000,
+        "icon": "iae.png"
     }
 ]
