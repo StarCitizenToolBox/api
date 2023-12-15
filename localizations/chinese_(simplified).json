@@ -18,7 +18,7 @@
     {
         "enable": true,
         "versionName": "3.22.0(PU)_CNEV_V1",
-        "updateAt": "2023-11-17: 14:30:00",
+        "updateAt": "2023-12-15: 23:00:00",
         "info": "简体中文汉化（仅载具名称英文版）",
         "game_channel": "PU",
         "note": "该版本用于解决 AOSP载具终端 显示不出一些船的问题。"
