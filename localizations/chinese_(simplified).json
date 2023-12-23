@@ -1,16 +1,16 @@
 [
     {
         "enable": true,
-        "versionName": "3.22.0(PU)_CN_V1",
-        "updateAt": "2023-12-15: 08:50:00",
+        "versionName": "3.22.0(PU)_CN_V2",
+        "updateAt": "2023-12-23: 08:30:00",
         "info": "简体中文汉化（首选）",
         "game_channel": "PU",
         "note": "·因游戏暂不支持3D字体汉化，F键交互将依旧为英文。\n·角色抬头显示器(HUD)的中文字体不显示。\n·某些元素字体过小。\n·搜索栏无法输入中文。\n·部位文本未翻译（在翻了，在翻了！）"
     },
     {
         "enable": true,
-        "versionName": "3.22.0(PU)_CNE_V1",
-        "updateAt": "2023-12-15: 08:50:00",
+        "versionName": "3.22.0(PU)_CNE_V2",
+        "updateAt": "2023-12-23: 08:30:00",
         "info": "简体中文半汉化（物品名称英文版）",
         "game_channel": "PU",
         "note": ""
@@ -33,8 +33,8 @@
     },
     {
         "enable": true,
-        "versionName": "3.22.0(PU)_CN_V1",
-        "updateAt": "2023-10-26: 08:50:00",
+        "versionName": "3.22.0(PU)_CN_V2",
+        "updateAt": "2023-12-23: 08:30:00",
         "info": "简体中文汉化",
         "game_channel": "PTU",
         "note": "该版本 与 LIVE 3.22 文本一致"
