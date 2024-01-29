@@ -13,5 +13,9 @@
         "background": "#290859",
         "menu": "#310666",
         "mica": "#270452"
+    },
+    "web_mirrors":{
+        "https://www.erkul.games/":"https://dps.sctoolbox.mirros.xkeyc.com/",
+        "https://uexcorp.space/":"https://uex.sctoolbox.mirros.xkeyc.com/"
     }
 }
