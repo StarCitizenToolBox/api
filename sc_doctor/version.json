@@ -7,15 +7,15 @@
     "MSE_minVersionCode": 35,
     "p4kDownloadUrl": "https://p4k.42kit.com/Data.p4k",
     "activityColors": {
-        "enable": false,
-        "startTime": 1700236800000,
-        "endTime": 1701360000000,
-        "background": "#290859",
-        "menu": "#310666",
-        "mica": "#270452"
+        "enable": true,
+        "startTime": 1707408000000,
+        "endTime": 1708156800000,
+        "background": "#520304",
+        "menu": "#700708",
+        "mica": "#52090a"
     },
-    "web_mirrors":{
-        "https://www.erkul.games":"https://dps.sctoolbox.mirros.xkeyc.com",
-        "https://uexcorp.space":"https://uex.sctoolbox.mirros.xkeyc.com"
+    "web_mirrors": {
+        "https://www.erkul.games": "https://dps.sctoolbox.mirros.xkeyc.com",
+        "https://uexcorp.space": "https://uex.sctoolbox.mirros.xkeyc.com"
     }
 }
