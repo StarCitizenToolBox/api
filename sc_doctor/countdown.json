@@ -43,5 +43,10 @@
         "name": "星际航空航天博览会 IAE",
         "time": 1731859200000,
         "icon": "iae.png"
+    },
+    {
+       "name": "BarCitizen：深圳",
+        "time": 1719590400000,
+        "icon": ""
     }
 ]
