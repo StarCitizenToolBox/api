@@ -7,7 +7,7 @@
     "MSE_minVersionCode": 35,
     "p4kDownloadUrl": "https://p4k.42kit.com/Data.p4k",
     "activityColors": {
-        "enable": true,
+        "enable": false,
         "startTime": 1707408000000,
         "endTime": 1708156800000,
         "background": "#520304",
