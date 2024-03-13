@@ -15,7 +15,7 @@
         "mica": "#52090a"
     },
     "web_mirrors": {
-        "https://www.erkul.games": "https://dps.sctoolbox.mirros.scbox.org",
-        "https://uexcorp.space": "https://uex.sctoolbox.mirros.scbox.org"
+        "https://www.erkul.games": "https://dps-mirros.scbox.org",
+        "https://uexcorp.space": "https://uex-mirros.scbox.org"
     }
 }
