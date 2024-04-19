@@ -38,5 +38,13 @@
         "info": "简体中文汉化",
         "game_channel": "PTU",
         "note": "该版本 与 LIVE 3.22 文本一致"
+    },
+    {
+        "enable": true,
+        "versionName": "3.23.0(PTU)_CNRSUI_V0",
+        "updateAt": "2024-04-18: 20:00",
+        "info": "简体中文汉化",
+        "game_channel": "PTU",
+        "note": "1. 文本内容同步至游戏版本3.23.0-PTU.9145576\n2. 部分地点名称添加了双语方便地图搜索\n3. 汉化游戏内小地图的文本\n4. 翻译文本精修"
     }
 ]
