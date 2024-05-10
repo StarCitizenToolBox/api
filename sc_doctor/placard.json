@@ -1,9 +1,9 @@
 {
-    "version": "018d5aae-4d80-796b-ac59-660286b0bd1f",
-    "title": "问卷调查",
-    "content": "诚邀您参加 SC汉化盒子 20240201 用户调查问卷",
-    "link": "https://wj.qq.com/s2/14112124/f4c8/",
+    "version": "79fb66ac-3539-4e1f-aa73-109ab48e058a",
+    "title": "星际公民微电影",
+    "content": "《幸运13》 54位中国玩家耗时2个月翻拍了科幻短片《LUCK13》",
+    "link": "https://www.bilibili.com/video/BV1gs421A7RB",
     "link_type": "external",
     "always_show": false,
-    "enable": false
+    "enable": true
 }
