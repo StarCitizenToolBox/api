@@ -1,7 +1,7 @@
 [
     {
         "enable": true,
-        "versionName": "3.23.0(PU)_TW_V1.2",
+        "versionName": "3.23.1a(PU)_TW_V1",
         "updateAt": "2024-06-01: 23:00:00",
         "info": "繁體中文本地化（TW）",
         "game_channel": "PU",
@@ -9,7 +9,7 @@
     },
     {
         "enable": true,
-        "versionName": "3.23.0(PU)_TW_V1.2",
+        "versionName": "3.23.1a(PU)_TW_V1",
         "updateAt": "2024-06-01: 23:00:00",
         "info": "繁體中文本地化（TW）",
         "game_channel": "PTU",
