@@ -7,12 +7,12 @@
     "MSE_minVersionCode": 35,
     "p4kDownloadUrl": "",
     "activityColors": {
-        "enable": false,
-        "startTime": 1707408000000,
-        "endTime": 1708156800000,
-        "background": "#520304",
-        "menu": "#700708",
-        "mica": "#52090a"
+        "enable": true,
+        "startTime": 1719590400000,
+        "endTime": 1719676800000,
+        "background": "#272147",
+        "menu": "#36258f",
+        "mica": "#272147"
     },
     "web_mirrors": {
         "https://www.erkul.games": "https://dps-mirrors.scbox.org",
