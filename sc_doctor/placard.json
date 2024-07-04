@@ -1,9 +1,9 @@
 {
-    "version": "e6a68eae-9b3f-4e6b-bff6-6c9168f66cc3",
-    "title": "星际公民微电影",
-    "content": "《戴玛尔日》",
-    "link": "https://www.bilibili.com/video/BV18jMQeyEg3",
+    "version": "7d9e14cb-1172-4223-b255-17ec18dad96c ",
+    "title": "服务器维护公告",
+    "content": "汉化盒子近期将进行维护，期间汉化等操作可能会不可用，尽情谅解。",
+    "link": "https://txc.qq.com/products/614843",
     "link_type": "external",
-    "always_show": false,
-    "enable": false
+    "always_show": true,
+    "enable": true
 }
