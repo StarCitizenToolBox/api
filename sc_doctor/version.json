@@ -1,13 +1,13 @@
 {
-    "lastVersion": "V2.11.3",
-    "lastVersionCode": 53,
+    "lastVersion": "V2.12.0",
+    "lastVersionCode": 54,
     "minVersionCode": 53,
-    "MSE_lastVersion": "V2.11.2",
-    "MSE_lastVersionCode": 52,
+    "MSE_lastVersion": "V2.12.0",
+    "MSE_lastVersionCode": 54,
     "MSE_minVersionCode": 35,
     "p4kDownloadUrl": "",
     "activityColors": {
-        "enable": true,
+        "enable": false,
         "startTime": 1719590400000,
         "endTime": 1719676800000,
         "background": "#272147",
