@@ -41,8 +41,8 @@
     },
     {
         "enable": true,
-        "versionName": "3.24.0(PTU)_CNRSUI_V2",
-        "updateAt": "2024-08-18: 09:00",
+        "versionName": "3.24.0(PTU)_CNRSUI_V3",
+        "updateAt": "2024-08-27: 19:00",
         "info": "[社区] 双语信息增强版",
         "game_channel": "PTU",
         "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
