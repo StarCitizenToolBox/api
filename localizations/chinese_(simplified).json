@@ -25,8 +25,8 @@
     },
     {
         "enable": true,
-        "versionName": "3.24.0(PU)_CN_PINYIN_V2",
-        "updateAt": "2024-08-30: 11:00:00",
+        "versionName": "3.24.0(PU)_CN_PINYIN_V3",
+        "updateAt": "2024-09-09: 21:20:00",
         "info": "[社区] 简中拼音搜索版",
         "game_channel": "PU",
         "note": "由汉化组成员 LeonRay 制作，为地点名称增加了拼音首字母后缀，便于搜索。"
