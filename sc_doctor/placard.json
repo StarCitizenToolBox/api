@@ -1,9 +1,9 @@
 {
-    "version": "7d9e14cb-1172-4223-b255-17ec18dad96c ",
-    "title": "服务器维护公告",
-    "content": "汉化盒子近期将进行维护，期间汉化等操作可能会不可用，尽情谅解。",
-    "link": "https://txc.qq.com/products/614843",
+    "version": "c3b7962b-2d74-4ae8-9e19-8c79d2cac163",
+    "title": "问题提示",
+    "content": "因 RSI 启动器 2.0.3 的更新，汉化盒子可能无法自动扫描到您游戏的安装位置，我们正在解决这个问题，在此之前请尝试手动定位安装位置。",
+    "link": "https://support.qq.com/products/614843/faqs/159170",
     "link_type": "external",
     "always_show": true,
-    "enable": false
+    "enable": true
 }
