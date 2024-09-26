@@ -1,24 +1,24 @@
 [
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CN_V2",
-        "updateAt": "2024-09-25: 13:00:00",
+        "versionName": "3.24.1(PU)_CN_V3",
+        "updateAt": "2024-09-26: 18:30:00",
         "info": "[汉化组] 简中全汉化",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供 \n\n已知问题：\n·角色抬头显示器(HUD)的中文字体不显示。\n·某些元素字体过小。\n·搜索栏无法输入中文。"
     },
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CNE_V2",
-        "updateAt": "2024-09-25: 13:00:00",
+        "versionName": "3.24.1(PU)_CNE_V3",
+        "updateAt": "2024-09-26: 18:30:00",
         "info": "[汉化组] 简中半汉化",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供，在全汉化的基础上保留了地面名称，载具名称，物品名称为英文。"
     },
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CNEN_V2",
-        "updateAt": "2024-09-25: 13:00:00",
+        "versionName": "3.24.1(PU)_CNEN_V3",
+        "updateAt": "2024-09-26: 18:30:00",
         "info": "[汉化组] 双语版",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供，提供中英文双语显示。"
