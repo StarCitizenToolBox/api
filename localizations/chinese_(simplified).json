@@ -41,11 +41,11 @@
     },
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CN_V2",
-        "updateAt": "2024-09-25: 13:00:00",
+        "versionName": "3.24.2(PTU)_CN_V1",
+        "updateAt": "2024-10-05: 21:00:00",
         "info": "[汉化组] 简中全汉化",
         "game_channel": "PTU",
-        "note": "该版本由星际公民汉化组提供 \n\n 与 LIVE 文本一致"
+        "note": "该版本由星际公民汉化组提供"
     },
     {
         "enable": true,
