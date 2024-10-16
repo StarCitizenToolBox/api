@@ -4,6 +4,6 @@
     "content": "因 RSI 启动器 2.0.3 的更新，汉化盒子可能无法自动扫描到您游戏的安装位置，我们正在解决这个问题，在此之前请尝试手动定位安装位置。",
     "link": "https://support.qq.com/products/614843/faqs/159170",
     "link_type": "external",
-    "always_show": true,
-    "enable": true
+    "always_show": false,
+    "enable": false
 }
