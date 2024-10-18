@@ -9,16 +9,16 @@
     },
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CNE_V3",
-        "updateAt": "2024-09-26: 18:30:00",
+        "versionName": "3.24.2(PU)_CNE_V1",
+        "updateAt": "2024-10-18: 11:00:00",
         "info": "[汉化组] 简中半汉化",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供，在全汉化的基础上保留了地面名称，载具名称，物品名称为英文。"
     },
     {
         "enable": true,
-        "versionName": "3.24.1(PU)_CNEN_V3",
-        "updateAt": "2024-09-26: 18:30:00",
+        "versionName": "3.24.2(PU)_CNEN_V1",
+        "updateAt": "2024-10-18: 11:00:00",
         "info": "[汉化组] 双语版",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供，提供中英文双语显示。"
