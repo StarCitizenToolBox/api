@@ -43,10 +43,5 @@
         "name": "星际航空航天博览会 IAE",
         "time": 1731859200000,
         "icon": "iae.png"
-    },
-    {
-        "name": "公民控 CitizenCon 2954",
-        "time": 1729328400000,
-        "icon": "citizencon.png"
     }
 ]
