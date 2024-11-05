@@ -1,8 +1,8 @@
 {
     "enable": true,
     "languages": {
-        "zh_CN": {
-            "file": "chinese.txt",
+        "chinese_(simplified)": {
+            "file": "chinese_(simplified).txt",
             "version": "0.0.1"
         }
     }
