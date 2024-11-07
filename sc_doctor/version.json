@@ -1,10 +1,10 @@
 {
-    "lastVersion": "V2.13.0",
-    "lastVersionCode": 58,
-    "minVersionCode": 53,
-    "MSE_lastVersion": "V2.12.1",
-    "MSE_lastVersionCode": 55,
-    "MSE_minVersionCode": 35,
+    "lastVersion": "V2.13.1",
+    "lastVersionCode": 59,
+    "minVersionCode": 58,
+    "MSE_lastVersion": "V2.13.1",
+    "MSE_lastVersionCode": 59,
+    "MSE_minVersionCode": 58,
     "p4kDownloadUrl": "",
     "activityColors": {
         "enable": false,
