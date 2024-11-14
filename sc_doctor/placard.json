@@ -1,9 +1,9 @@
 {
-    "version": "c3b7962b-2d74-4ae8-9e19-8c79d2cac163",
-    "title": "问题提示",
-    "content": "因 RSI 启动器 2.0.3 的更新，汉化盒子可能无法自动扫描到您游戏的安装位置，我们正在解决这个问题，在此之前请尝试手动定位安装位置。",
-    "link": "https://support.qq.com/products/614843/faqs/159170",
+    "version": "3f87c892-d54e-4c99-b524-d863a26c5741",
+    "title": "译名征集",
+    "content": "我们正在为 新船 ”Intrepid“ 征集译名，点击参与",
+    "link": "https://support.citizenwiki.cn/d/11-3243-intrepid/",
     "link_type": "external",
     "always_show": false,
-    "enable": false
+    "enable": true
 }
