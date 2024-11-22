@@ -1,8 +1,8 @@
 [
     {
         "enable": true,
-        "versionName": "3.24.3(PU)_CN_V2",
-        "updateAt": "2024-11-20: 22:30:00",
+        "versionName": "3.24.3(PU)_CN_V3",
+        "updateAt": "2024-11-22: 12:40:00",
         "info": "[汉化组] 简中全汉化",
         "game_channel": "PU",
         "note": "该版本由星际公民汉化组提供 \n\n已知问题：\n·角色抬头显示器(HUD)的中文字体不显示。\n·某些元素字体过小。\n·搜索栏无法输入中文。"
