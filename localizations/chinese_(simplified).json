@@ -1,1 +1,50 @@
-[{"enable":true,"versionName":"3.24.3(PU)_CNE_V4","updateAt":"2024-11-27: 12:30:00","info":"[汉化组] 简中半汉化","game_channel":"PU","note":"该版本由星际公民汉化组提供，在全汉化的基础上保留了地面名称，载具名称，物品名称为英文。"},{"enable":true,"versionName":"3.24.3(PU)_CNEN_V4","updateAt":"2024-11-27: 12:30:00","info":"[汉化组] 双语版","game_channel":"PU","note":"该版本由星际公民汉化组提供，提供中英文双语显示。"},{"enable":true,"versionName":"3.24.3(PU)_CN_PINYIN_V4","updateAt":"2024-11-27: 12:30:00","info":"[汉化组] 简中拼音搜索版","game_channel":"PU","note":"由星际公民汉化组提供，为地点名称增加了拼音首字母后缀，便于搜索。"},{"enable":true,"versionName":"3.24.3(PU)_CNRSUI_V1","updateAt":"2024-11-21: 22:10:00","info":"[社区] 双语信息增强版","game_channel":"PU","note":"由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"},{"enable":true,"versionName":"4.0.0(PTU)_CN_V1","updateAt":"2024-11-17: 01:40:00","info":"[汉化组] 4.0 EPTU 全汉化","game_channel":"PTU","note":"该版本由星际公民汉化组提供"},{"enable":true,"versionName":"3.24.3(PU)_CN_V0","updateAt":"2024-11-28 12:00","info":"[汉化组] 简中全汉化","game_channel":"PTU","note":"该版本由星际公民汉化组提供"}]
+[
+  {
+    "enable": true,
+    "versionName": "3.24.3(PU)_CNE_V4",
+    "updateAt": "2024-11-27: 12:30:00",
+    "info": "[汉化组] 简中半汉化",
+    "game_channel": "PU",
+    "note": "该版本由星际公民汉化组提供，在全汉化的基础上保留了地面名称，载具名称，物品名称为英文。"
+  },
+  {
+    "enable": true,
+    "versionName": "3.24.3(PU)_CNEN_V4",
+    "updateAt": "2024-11-27: 12:30:00",
+    "info": "[汉化组] 双语版",
+    "game_channel": "PU",
+    "note": "该版本由星际公民汉化组提供，提供中英文双语显示。"
+  },
+  {
+    "enable": true,
+    "versionName": "3.24.3(PU)_CN_PINYIN_V4",
+    "updateAt": "2024-11-27: 12:30:00",
+    "info": "[汉化组] 简中拼音搜索版",
+    "game_channel": "PU",
+    "note": "由星际公民汉化组提供，为地点名称增加了拼音首字母后缀，便于搜索。"
+  },
+  {
+    "enable": true,
+    "versionName": "3.24.3(PU)_CNRSUI_V1",
+    "updateAt": "2024-11-21: 22:10:00",
+    "info": "[社区] 双语信息增强版",
+    "game_channel": "PU",
+    "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
+  },
+  {
+    "enable": true,
+    "versionName": "4.0.0(PTU)_CN_V1",
+    "updateAt": "2024-11-17: 01:40:00",
+    "info": "[汉化组] 4.0 EPTU 全汉化",
+    "game_channel": "PTU",
+    "note": "该版本由星际公民汉化组提供"
+  },
+  {
+    "enable": true,
+    "versionName": "3.24.3(PU)_CN_V0",
+    "updateAt": "2024-11-28 12:00",
+    "info": "[汉化组] 简中全汉化",
+    "game_channel": "PTU",
+    "note": "该版本由星际公民汉化组提供"
+  }
+]
