@@ -33,15 +33,15 @@
   },
   {
     "enable": true,
-    "versionName": "4.0.0(PTU)_CN_V1",
-    "updateAt": "2024-11-17: 01:40:00",
-    "info": "[汉化组] 4.0 EPTU 全汉化",
+    "versionName": "3.24.3(PU)_CN_V0",
+    "updateAt": "2024-11-28 12:00",
+    "info": "[汉化组] 简中全汉化",
     "game_channel": "PTU",
     "note": "该版本由星际公民汉化组提供"
   },
   {
     "enable": true,
-    "versionName": "3.24.3(PU)_CN_V0",
+    "versionName": "4.0.0(PTU)_CN_V2",
     "updateAt": "2024-11-28 12:00",
     "info": "[汉化组] 简中全汉化",
     "game_channel": "PTU",
