@@ -1,22 +1,6 @@
 [
   {
     "enable": true,
-    "versionName": "4.0.0(PTU)_CN_V1",
-    "updateAt": "2024-11-17: 01:40:00",
-    "info": "[汉化组] 4.0 EPTU 全汉化",
-    "game_channel": "PTU",
-    "note": "该版本由星际公民汉化组提供"
-  },
-  {
-    "enable": true,
-    "versionName": "4.0.0(PTU)_CNRSUI_V2",
-    "updateAt": "2024-12-02 15:50",
-    "info": "[社区] 简中双语汉化",
-    "game_channel": "PTU",
-    "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
-  },
-  {
-    "enable": true,
     "versionName": "3.24.3(PU)_CN_V7",
     "updateAt": "2024-12-04 14:40",
     "info": "[汉化组] 简中全汉化",
@@ -51,8 +35,24 @@
     "enable": true,
     "versionName": "3.24.3(PU)_CNRSUI_V1",
     "updateAt": "2024-11-21: 22:10:00",
-    "info": "[社区] 双语信息增强版",
+    "info": "[社区] 双语信息增强汉化",
     "game_channel": "PU",
+    "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
+  },
+  {
+    "enable": true,
+    "versionName": "4.0.0(PTU)_CN_V1",
+    "updateAt": "2024-11-17: 01:40:00",
+    "info": "[汉化组] 简中全汉化",
+    "game_channel": "PTU",
+    "note": "该版本由星际公民汉化组提供"
+  },
+  {
+    "enable": true,
+    "versionName": "4.0.0(PTU)_CNRSUI_V2",
+    "updateAt": "2024-12-02 15:50",
+    "info": "[社区] 简中双语汉化",
+    "game_channel": "PTU",
     "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
   }
 ]
