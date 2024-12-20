@@ -1,9 +1,9 @@
 {
-    "version": "3f87c892-d54e-4c99-b524-d863a26c5738",
-    "title": "译名征集",
-    "content": "我们正在为 4.0 新地点征集译名，点击参与",
-    "link": "https://support.citizenwiki.cn/t/localization",
+    "version": "4f87c892-d54e-4c99-b524-d863a26c5738",
+    "title": "4.0_PREVIEW",
+    "content": "因 CIG 不讲武德的命名方式，汉化盒子暂时无法识别 4.0_PREVIEW 通道，如有汉化需求，请使用在线版汉化盒子选择 PTU 下载汉化补丁。",
+    "link": "https://scbox.xkeyc.cn/",
     "link_type": "external",
-    "always_show": false,
+    "always_show": true,
     "enable": true
 }
