@@ -14,6 +14,14 @@
         "menu": "#36258f",
         "mica": "#272147"
     },
+    "game_channels": [
+        "LIVE",
+        "4.0_PREVIEW",
+        "PTU",
+        "EPTU",
+        "TECH-PREVIEW",
+        "HOTFIX"
+    ],
     "web_mirrors": {
         "https://www.erkul.games": "https://dps-mirrors.scbox.org"
     }
