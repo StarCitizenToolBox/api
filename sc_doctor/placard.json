@@ -1,8 +1,8 @@
 {
-    "version": "4f87c892-d54e-4c99-b524-d863a26c5738",
-    "title": "4.0_PREVIEW",
-    "content": "因 CIG 不讲武德的命名方式，汉化盒子暂时无法识别 4.0_PREVIEW 通道，如有汉化需求，可将 4.0_PREVIEW 文件夹重命名为 EPTU 来安装汉化，完成后修改回去即可，或使用在线版汉化盒子选择 PTU 下载汉化补丁。",
-    "link": "https://scbox.xkeyc.cn/",
+    "version": "3f87c892-d54e-5c99-b524-d863a26c5738",
+    "title": "版本更新",
+    "content": "汉化盒子 2.13.4 版本已发布，更新以支持 4.0_PREVIEW 通道的汉化安装。",
+    "link": "https://citizenwiki.cn/Localization",
     "link_type": "external",
     "always_show": true,
     "enable": true
